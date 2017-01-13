@@ -1,0 +1,26 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Resolved minor issues as asked by reviewer.
+
+Version 1.2
+i) Changed screenshot and translation file extension.
+
+Version 1.2.1
+i) Resolved issues as asked by reviewer.
+
+Version 1.2.2
+i) Added permalink to homepage boxes.
+
+Version 1.2.3
+i) Added slider caption hide option in customize.
+
+Version 1.2.4
+i) Added background color option for footer area.
+
+Version 1.2.5
+i) Resolved error from template-tag.php file.
+
+Version 1.2.6
+i) Added logo option and header background image in customizer.
